@@ -1,0 +1,45 @@
+
+
+Prateeks-MacBook-Air:~ pratyada$ python -m  pip install pandas
+Prateeks-MacBook-Air:~ pratyada$ python -m pip install numpy
+
+Prateeks-MacBook-Air:~ pratyada$ python3 -m pip install opencv-python
+Prateeks-MacBook-Air:~ pratyada$ python3 -m pip install tensorflow
+Prateeks-MacBook-Air:~ pratyada$ python3 -m pip install keras
+Prateeks-MacBook-Air:~ pratyada$ python3 -m pip install matplotlib
+
+
+Prateeks-MacBook-Air:~ pratyada$ python -m pip install notebook
+Prateeks-MacBook-Air:~ pratyada$ jupyter notebook
+
+
+
+Prateeks-MacBook-Air:~ pratyada$ /Applications/Python\ 3.6/Install\ Certificates.command 
+ -- pip install --upgrade certifi
+Cache entry deserialization failed, entry ignored
+Collecting certifi
+  Cache entry deserialization failed, entry ignored
+  Downloading https://files.pythonhosted.org/packages/b9/63/df50cac98ea0d5b006c55a399c3bf1db9da7b5a24de7890bc9cfd5dd9e99/certifi-2019.11.28-py2.py3-none-any.whl (156kB)
+    100% |████████████████████████████████| 163kB 2.4MB/s 
+Installing collected packages: certifi
+  Found existing installation: certifi 2017.1.23
+    Uninstalling certifi-2017.1.23:
+      Successfully uninstalled certifi-2017.1.23
+Successfully installed certifi-2019.11.28
+ -- removing any existing file or link
+ -- creating symlink to certifi certificate bundle
+ -- setting permissions
+ -- update complete
+ 
+ 
+ 
+Prateeks-MacBook-Air:~ pratyada$ /Applications/Python\ 3.7/Install\ Certificates.command 
+ -- pip install --upgrade certifi
+Requirement already up-to-date: certifi in /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages (2019.11.28)
+You are using pip version 10.0.1, however version 20.0.2 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+ -- removing any existing file or link
+ -- creating symlink to certifi certificate bundle
+ -- setting permissions
+ -- update complete
+Prateeks-MacBook-Air:~ pratyada$ 
